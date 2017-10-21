@@ -1,1 +1,2 @@
-# gsocs-binghamton-suny.github.io
+# GSOCS-BINGHAMTON-SUNY
+
